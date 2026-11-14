@@ -1,0 +1,7 @@
+# Copy to ~/.config/picture-upload/config and adjust.
+SFTP_HOST="example.com"
+SFTP_USER="your_user"
+SFTP_REMOTE_PATH="/var/www/html/screenshots"   # no trailing slash
+BASE_URL="https://example.com/screenshots"      # no trailing slash
+SCREENSHOT_DIR="$HOME/Pictures/Screenshots"
+SFTP_KEY=""   # optional, e.g. "$HOME/.ssh/id_ed25519"

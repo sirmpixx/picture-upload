@@ -1,0 +1,4 @@
+# Local configuration / secrets
+config
+.env
+.serena/
